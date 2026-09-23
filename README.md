@@ -51,9 +51,9 @@ Main libraries:
 
 ## Data Sources
 
-- Air Quality Index in Jakarta - Kaggle
-- Jumlah Kendaraan Bermotor Menurut Jenis Kendaraan - BPS
-- Produksi Minyak Bumi dan Gas Alam — BPS
+- Air Quality Index in Jakarta - Kaggle (https://www.kaggle.com/datasets/senadu34/air-quality-index-in-jakarta-2010-2021)
+- Jumlah Kendaraan Bermotor Menurut Jenis Kendaraan - BPS (https://jakarta.bps.go.id/id/statistics-table/2/Nzg2IzI=/jumlah-kendaraan-bermotor-menurut-jenis-kendaraan-unit-di-provinsi-dki-jakarta.html)
+- Produksi Minyak Bumi dan Gas Alam - BPS (https://www.bps.go.id/id/statistics-table/1/MTA5MiMx/produksi-minyak-bumi-dan-gas-alam--1996-2023.html)
 
 ## SDG Alignment
 
